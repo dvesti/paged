@@ -1,7 +1,7 @@
 ---
 menu:
   main:
-    name: Docs
+    name: Доки
     weight: 3
-title: Documentation
+title: Документация
 ---

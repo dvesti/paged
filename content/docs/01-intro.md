@@ -3,7 +3,7 @@ author: Yihui Xie
 categories:
 - Example
 - Hugo
-title: Introduction
+title: Предистовие
 weight: 1
 ---
 

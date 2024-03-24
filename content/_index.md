@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Главная
 ---
 
 <style type="text/css">
@@ -21,10 +21,10 @@ title: Home
 }
 </style>
 
-<h1 class="title">Hugo Paged</h1>
+<h1 class="title">Паж</h1>
 
-## _by_ Yihui Xie
+## _автор:_ Vladimir Dmitrijev
 
-- CLEAN-CUT
-- PRINT FEEL
-- MINIMAL CSS
+- ЧЕТКАЯ
+- ПЕЧАТЬ
+- С МИНИМАЛЬНЫМ

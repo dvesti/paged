@@ -2,7 +2,7 @@
 menu:
   main:
     weight: 4
-title: Search
+title: Поиск
 ---
 
 The searching is performed via fuse.js. For the search keywords, white spaces act as the `AND` operator, and `|` acts as the `OR` operator. To match an exact phrase, double quote it. For example, `R Markdown` matches articles that contain both `R` and `Markdown`, `R | Markdown` matches articles that contain `R` or `Markdown`, and `"R Markdown"` matches articles that contain the whole phrase `R Markdown`.

@@ -1,12 +1,12 @@
 ---
-author: Yihui Xie
+author: Vlasdimir Dmitrijev
 categories:
-- Example
+- Пример
 tags:
-- Tutorial
+- Руководство
 - blogdown
 - Hugo
-title: Getting started
+title: С чего начать
 weight: 2
 ---
 
