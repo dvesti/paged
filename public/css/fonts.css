@@ -1,18 +1,18 @@
 @font-face {
   font-family: 'Linden Hill';
   font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/theleagueof/linden-hill/webfonts/LindenHill-webfont.woff') format('woff');
-  font-size: 120%;
+  src: url('https://cdn.jsdelivr.net/gh/theleagueof/linden-hill/webfonts/LindenHill-webfont.woff') format('woff'); 
+ /* font-size: 120%; */
 }
 @font-face {
   font-family: 'Linden Hill';
   font-style: italic;
   src: url('https://cdn.jsdelivr.net/gh/theleagueof/linden-hill/webfonts/LindenHill-Italic-webfont.woff') format('woff');
-  font-size: 120%;
+/*  font-size: 120%; */
 }
 body {
-  font-family: 'Linden Hill', Palatino, serif;
-  font-size: 120%;
+  font-family: 'Linden Hill', Palatino, Garamond, serif;
+ /* font-size: 120%; */
 }
 code {
   font-family: "Lucida Console", Monaco, monospace;
@@ -20,5 +20,5 @@ code {
 }
 .menu, .meta-line, footer {
   font-family: Jost, Optima, Candara, sans-serif;
-  font-size: 120%;
+/*  font-size: 120%; */
 }

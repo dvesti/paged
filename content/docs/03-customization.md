@@ -1,5 +1,6 @@
 ---
 author: Yihui Xie
+date: "2015-07-24"
 categories:
 - Example
 tags:

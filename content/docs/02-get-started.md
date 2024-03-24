@@ -1,11 +1,5 @@
 ---
 author: Vlasdimir Dmitrijev
-categories:
-- Пример
-tags:
-- Руководство
-- blogdown
-- Hugo
 title: С чего начать
 weight: 2
 ---

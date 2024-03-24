@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on A Hugo theme inspired by paged.js</title>
+    <title>Главная on A Hugo theme inspired by paged.js</title>
     <link>/</link>
-    <description>Recent content in Home on A Hugo theme inspired by paged.js</description>
+    <description>Recent content in Главная on A Hugo theme inspired by paged.js</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Introduction</title>
+      <title>Предисловие</title>
       <link>/docs/01-intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -16,18 +16,18 @@
       <description>The Hugo Paged theme was inspired by the paged.js website.
 The paged.js website The paged.js library is awesome. Its website is also beautiful.
 The crop marks I love the crop marks. I couldn&amp;rsquo;t imagine that they were made from three rectangles:
-&amp;lt;div class=&amp;quot;crop-h&amp;quot;&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;!-- horizontal lines --&amp;gt; &amp;lt;div class=&amp;quot;crop-v&amp;quot;&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;!-- vertical lines --&amp;gt; &amp;lt;div class=&amp;quot;crop-c&amp;quot;&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;!-- cover some segments --&amp;gt; Make their position absolute, and shrink them a little bit:</description>
+&amp;lt;div class=&amp;quot;crop-h&amp;quot;&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;!-- horizontal lines --&amp;gt;&amp;lt;div class=&amp;quot;crop-v&amp;quot;&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;!-- vertical lines --&amp;gt;&amp;lt;div class=&amp;quot;crop-c&amp;quot;&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;!-- cover some segments --&amp;gt;Make their position absolute, and shrink them a little bit:</description>
     </item>
     
     <item>
-      <title>Getting started</title>
+      <title>С чего начать</title>
       <link>/docs/02-get-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/docs/02-get-started/</guid>
       <description>There are two ways to get started with this theme, depending on whether you use R or Hugo.
 R users If you use R, the easiest way to get started is to install the blogdown package, and create a new site with this theme:
-install.packages(&#39;blogdown&#39;) blogdown::new_site(theme = &#39;yihui/hugo-paged&#39;) Or you can create a new RStudio blogdown project (if you use RStudio) with the yihui/hugo-paged theme.
+install.packages(&#39;blogdown&#39;)blogdown::new_site(theme = &#39;yihui/hugo-paged&#39;)Or you can create a new RStudio blogdown project (if you use RStudio) with the yihui/hugo-paged theme.
 Hugo users Create a new Hugo site with hugo new.</description>
     </item>
     
@@ -48,9 +48,9 @@ If you want to add a logo to the left of the top navigation bar, you can use the
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
       <guid>/blog/2020-12-01-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+      <description>R MarkdownЭто – Вовка. This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
     </item>
     
     <item>
@@ -74,17 +74,17 @@ Quisque mattis volutpat lorem vitae feugiat.</description>
     </item>
     
     <item>
-      <title>About Hugo Paged</title>
+      <title>О Паже</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
       <description>I immediately loved the design of the paged.js website when I first saw it a couple of years ago.1 I have published a few books before, so the crop marks on the website caught my attention first, which gave me a familiar feel of printed books. The second thing that I appreciated was the rotated floral heart bullet behind the title of each page, i.e.,
-❧ So I wrote a Hugo theme that mimics the style of the paged.</description>
+❧So I wrote a Hugo theme that mimics the style of the paged.</description>
     </item>
     
     <item>
-      <title>Search</title>
+      <title>Поиск</title>
       <link>/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

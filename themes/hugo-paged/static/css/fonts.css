@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'Linden Hill';
   font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/theleagueof/linden-hill/webfonts/LindenHill-webfont.woff') format('woff');
+  src: url('https://cdn.jsdelivr.net/gh/theleagueof/linden-hill/webfonts/LindenHill-webfont.woff') format('woff'); 
  /* font-size: 120%; */
 }
 @font-face {
@@ -11,7 +11,7 @@
 /*  font-size: 120%; */
 }
 body {
-  font-family: 'Linden Hill', Palatino, serif;
+  font-family: 'Linden Hill', Palatino, Garamond, serif;
  /* font-size: 120%; */
 }
 code {

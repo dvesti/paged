@@ -1,9 +1,11 @@
 ---
 author: Yihui Xie
+title: Предисловие
 categories:
 - Example
-- Hugo
-title: Предистовие
+date: "2015-07-23"
+tags:
+- Markdown
 weight: 1
 ---
 
