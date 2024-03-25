@@ -5,11 +5,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <title>Categories - A Hugo theme inspired by paged.js</title>
-    <meta property="og:title" content="Categories - A Hugo theme inspired by paged.js">
+    <title>Приветствие! - A Hugo theme inspired by paged.js</title>
+    <meta property="og:title" content="Приветствие! - A Hugo theme inspired by paged.js">
     
     <meta name="twitter:card" content="summary">
     
+      
+      <meta property="description" content="Приветствую всех, кто посетил этот сайт!">
+      <meta property="og:description" content="Приветствую всех, кто посетил этот сайт!">
       
     
 
@@ -19,8 +22,6 @@
 
     
 
-    
-    <link href="/categories/index.xml" rel="alternate" type="application/rss+xml" title="A Hugo theme inspired by paged.js">
     
 
     
@@ -37,7 +38,7 @@
   
   
   
-  <body class=" categories">
+  <body class="single blog">
     <div class="crop-h"></div><div class="crop-v"></div><div class="crop-c"></div>
     <nav class="nav-top small">
     <div class="logo">
@@ -50,7 +51,7 @@
     
     </div>
     <div class="menu"><span><a href="/about/">О нас</a></span>
-      <span><a href="/blog/">Блог</a></span>
+      <span class="active"><a href="/blog/">Блог</a></span>
       <span><a href="/docs/">Доки</a></span>
       <span><a href="/search/">Поиск</a></span>
       <span class="optional"><a href="https://github.com/dvesti/paged">Github</a></span>
@@ -58,31 +59,54 @@
     </div>
     </nav>
 
+<div class="article-meta">
+<h1 class="title">Приветствие!</h1>
 
-<h1 class="title">Categories</h1>
+<h3 class="meta-line">
+  <span>
 
-<ul class="terms">
-  
-  <li>
-    <a href="/categories/example/">Example</a> (4)
-  </li>
-  
-  <li>
-    <a href="/categories/hugo/">Hugo</a> (1)
-  </li>
-  
-  <li>
-    <a href="/categories/r/">R</a> (1)
-  </li>
-  
-  <li>
-    <a href="/categories/test/">Test</a> (1)
-  </li>
-  
-</ul>
+<span class="author">Vladimir Dmitrijev</span>
 
+
+
+
+
+
+<span class="date">2024-03-25</span>
+
+
+</span>
+  <span class="term">
+  
+  
+  {<a href="/categories/test/" class="term-cat">Test</a>}
+  
+  
+  
+  </span>
+</h3>
+</div>
+
+<div class="main">
+
+
+
+
+<p>Приветствую всех, кто посетил <a href="https://hugopaged.netlify.app/">этот сайт</a>!</p>
+
+
+
+<nav class="post-nav fullwidth">
+  <span></span>
+  <span><a href="/blog/2020-12-01-r-rmarkdown/">Hello R Markdown</a> &rarr;</span>
+</nav>
+
+
+
+</div>
   <footer class="small">
-  
+  <script src="//cdn.jsdelivr.net/npm/@xiee/utils/js/external-link.min.js" defer></script>
+
   
   
   <hr/>
@@ -92,7 +116,7 @@
     <span class="menu-bottom">
 <a href="/categories/">Categories</a> <a href="/tags/">Tags</a>
 
-<a href="/categories/index.xml" type="application/rss+xml" title="RSS feed">Subscribe</a>
+<a href="/blog/index.xml" type="application/rss+xml" title="RSS feed">Subscribe</a>
 
 <a href="#">Back to Top</a>
 
