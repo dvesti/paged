@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test on A Hugo theme inspired by paged.js</title>
-    <link>//localhost:1313/categories/test/</link>
+    <link>/categories/test/</link>
     <description>Recent content in Test on A Hugo theme inspired by paged.js</description>
     <generator>Hugo</generator>
     <language>ru-RU</language>
     <lastBuildDate>Mon, 25 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Приветствие!</title>
-      <link>//localhost:1313/blog/privestvije/</link>
+      <link>/blog/privestvije/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/privestvije/</guid>
+      <guid>/blog/privestvije/</guid>
       <description>&lt;p&gt;Приветствую всех, кто посетил &lt;a href=&#34;https://hugopaged.netlify.app/&#34;&gt;этот сайт&lt;/a&gt;!&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorial on A Hugo theme inspired by paged.js</title>
-    <link>//localhost:1313/tags/tutorial/</link>
+    <link>/tags/tutorial/</link>
     <description>Recent content in Tutorial on A Hugo theme inspired by paged.js</description>
     <generator>Hugo</generator>
     <language>ru-RU</language>
     <lastBuildDate>Fri, 24 Jul 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Customization</title>
-      <link>//localhost:1313/docs/03-customization/</link>
+      <link>/docs/03-customization/</link>
       <pubDate>Fri, 24 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/03-customization/</guid>
+      <guid>/docs/03-customization/</guid>
       <description>&lt;p&gt;The more you know, the less real work you will get done. You have been warned.&lt;/p&gt;&#xA;&lt;h2 id=&#34;site-config&#34;&gt;Site config&lt;/h2&gt;&#xA;&lt;p&gt;In your site config file (&lt;code&gt;hugo.yaml&lt;/code&gt; or &lt;code&gt;config.yaml&lt;/code&gt;), you can customize some options such as the top menu or footer, which should be straightforward to understand if you take a look at the &lt;code&gt;exampleSite&lt;/code&gt;&amp;rsquo;s config file.&lt;/p&gt;&#xA;&lt;p&gt;If you want to add a logo to the left of the top navigation bar, you can use the &lt;code&gt;logo&lt;/code&gt; parameter, e.g.,&lt;/p&gt;</description>
     </item>
   </channel>
